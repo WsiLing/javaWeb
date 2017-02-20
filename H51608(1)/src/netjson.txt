@@ -1,0 +1,607 @@
+[
+    {
+        "category": "1",
+        "destinations": [
+            {
+                "id": 55,
+                "name_zh_cn": "日本",
+                "name_en": "Japan",
+                "poi_count": 1010,
+                "lat": 36.2048,
+                "lng": 138.253,
+                "image_url": "http://m.chanyouji.cn/destinations/55-portrait.jpg",
+                "updated_at": 1457039212
+            },
+            {
+                "id": 45,
+                "name_zh_cn": "泰国",
+                "name_en": "Thailand",
+                "poi_count": 572,
+                "lat": 15.87,
+                "lng": 100.993,
+                "image_url": "http://m.chanyouji.cn/destinations/45-portrait.jpg",
+                "updated_at": 1471385644
+            },
+            {
+                "id": 47,
+                "name_zh_cn": "韩国",
+                "name_en": "South Korea",
+                "poi_count": 309,
+                "lat": 35.9078,
+                "lng": 127.767,
+                "image_url": "http://m.chanyouji.cn/destinations/47-portrait.jpg",
+                "updated_at": 1456348522
+            },
+            {
+                "id": 71,
+                "name_zh_cn": "马来西亚",
+                "name_en": "Malaysia",
+                "poi_count": 298,
+                "lat": 4.21048,
+                "lng": 101.976,
+                "image_url": "http://m.chanyouji.cn/destinations/71-portrait.jpg",
+                "updated_at": 1479248253
+            },
+            {
+                "id": 53,
+                "name_zh_cn": "新加坡",
+                "name_en": "Singapore",
+                "poi_count": 177,
+                "lat": 1.35208,
+                "lng": 103.82,
+                "image_url": "http://m.chanyouji.cn/destinations/53-portrait.jpg",
+                "updated_at": 1480803666
+            },
+            {
+                "id": 54,
+                "name_zh_cn": "柬埔寨",
+                "name_en": "Cambodia",
+                "poi_count": 96,
+                "lat": 12.5657,
+                "lng": 104.991,
+                "image_url": "http://m.chanyouji.cn/destinations/54-portrait.jpg",
+                "updated_at": 1448657986
+            },
+            {
+                "id": 49,
+                "name_zh_cn": "越南",
+                "name_en": "Vietnam",
+                "poi_count": 269,
+                "lat": 14.0583,
+                "lng": 108.277,
+                "image_url": "http://m.chanyouji.cn/destinations/49-portrait.jpg",
+                "updated_at": 1471299048
+            },
+            {
+                "id": 76,
+                "name_zh_cn": "印度尼西亚",
+                "name_en": "Indonesia",
+                "poi_count": 206,
+                "lat": -0.789275,
+                "lng": 113.921,
+                "image_url": "http://m.chanyouji.cn/destinations/76-portait.jpg",
+                "updated_at": 1480803668
+            },
+            {
+                "id": 73,
+                "name_zh_cn": "菲律宾",
+                "name_en": "Philippines",
+                "poi_count": 268,
+                "lat": 12.8797,
+                "lng": 121.774,
+                "image_url": "http://m.chanyouji.cn/destinations/73-portrait.jpg",
+                "updated_at": 1453754720
+            },
+            {
+                "id": 48,
+                "name_zh_cn": "斯里兰卡",
+                "name_en": "Sri Lanka",
+                "poi_count": 173,
+                "lat": 7.87305,
+                "lng": 80.7718,
+                "image_url": "http://cyjm.qiniudn.com/destinations/48-portrait.jpg",
+                "updated_at": 1458939484
+            },
+            {
+                "id": 56,
+                "name_zh_cn": "尼泊尔",
+                "name_en": "Nepal",
+                "poi_count": 96,
+                "lat": 28.3949,
+                "lng": 84.124,
+                "image_url": "http://m.chanyouji.cn/destinations/56-portrait.png",
+                "updated_at": 1458333971
+            },
+            {
+                "id": 50,
+                "name_zh_cn": "缅甸",
+                "name_en": "Myanmar",
+                "poi_count": 158,
+                "lat": 21.914,
+                "lng": 95.9562,
+                "image_url": "http://m.chanyouji.cn/destinations/50-portrait1.jpg",
+                "updated_at": 1433737537
+            },
+            {
+                "id": 75,
+                "name_zh_cn": "老挝",
+                "name_en": "Laos",
+                "poi_count": 69,
+                "lat": 19.8563,
+                "lng": 102.495,
+                "image_url": "http://m.chanyouji.cn/destinations/75-portrait.jpg",
+                "updated_at": 1448657987
+            },
+            {
+                "id": 51,
+                "name_zh_cn": "朝鲜",
+                "name_en": "North Korea",
+                "poi_count": 21,
+                "lat": 40.3399,
+                "lng": 127.51,
+                "image_url": "http://m.chanyouji.cn/destinations/51-portrait.jpg",
+                "updated_at": 1401437750
+            }
+        ]
+    },
+    {
+        "category": "2",
+        "destinations": [
+            {
+                "id": 62,
+                "name_zh_cn": "法国",
+                "name_en": "France",
+                "poi_count": 333,
+                "lat": 46.2276,
+                "lng": 2.21375,
+                "image_url": "http://m.chanyouji.cn/destinations/62-portrait.jpg",
+                "updated_at": 1467064824
+            },
+            {
+                "id": 80,
+                "name_zh_cn": "意大利",
+                "name_en": "Italy",
+                "poi_count": 342,
+                "lat": 41.8719,
+                "lng": 12.5674,
+                "image_url": "http://m.chanyouji.cn/destinations/80-portrait.jpg",
+                "updated_at": 1471126842
+            },
+            {
+                "id": 67,
+                "name_zh_cn": "英国",
+                "name_en": "United Kingdom",
+                "poi_count": 446,
+                "lat": 55.3781,
+                "lng": -3.43597,
+                "image_url": "http://m.chanyouji.cn/destinations/67-portait.jpg",
+                "updated_at": 1482444633
+            },
+            {
+                "id": 63,
+                "name_zh_cn": "德国",
+                "name_en": "Germany",
+                "poi_count": 246,
+                "lat": 51.1657,
+                "lng": 10.4515,
+                "image_url": "http://m.chanyouji.cn/destinations/39-portrait.jpg",
+                "updated_at": 1448829937
+            },
+            {
+                "id": 90,
+                "name_zh_cn": "瑞士",
+                "name_en": "Switzerland",
+                "poi_count": 266,
+                "lat": 46.8182,
+                "lng": 8.22751,
+                "image_url": "http://m.chanyouji.cn/destinations/90-portrait.jpg",
+                "updated_at": 1470435733
+            },
+            {
+                "id": 77,
+                "name_zh_cn": "西班牙",
+                "name_en": "Spain",
+                "poi_count": 236,
+                "lat": 40.4637,
+                "lng": -3.74922,
+                "image_url": "http://m.chanyouji.cn/destinations/77-portrait.jpg",
+                "updated_at": 1460583540
+            },
+            {
+                "id": 84,
+                "name_zh_cn": "奥地利",
+                "name_en": "Austria",
+                "poi_count": 84,
+                "lat": 47.5162,
+                "lng": 14.5501,
+                "image_url": "http://m.chanyouji.cn/destinations/84-portrait.jpg",
+                "updated_at": 1441571966
+            },
+            {
+                "id": 69,
+                "name_zh_cn": "土耳其",
+                "name_en": "Turkey",
+                "poi_count": 124,
+                "lat": 38.9637,
+                "lng": 35.2433,
+                "image_url": "http://m.chanyouji.cn/destinations/69-portrait.jpg",
+                "updated_at": 1475705617
+            },
+            {
+                "id": 81,
+                "name_zh_cn": "捷克",
+                "name_en": "Czech Republic",
+                "poi_count": 95,
+                "lat": 49.8175,
+                "lng": 15.473,
+                "image_url": "http://cyjm.qiniudn.com/destinations/81-portait.jpg",
+                "updated_at": 1466204131
+            },
+            {
+                "id": 89,
+                "name_zh_cn": "荷兰",
+                "name_en": "Netherlands",
+                "poi_count": 136,
+                "lat": 52.1326,
+                "lng": 5.29127,
+                "image_url": "http://m.chanyouji.cn/destinations/89-portrait.jpg",
+                "updated_at": 1449261785
+            },
+            {
+                "id": 83,
+                "name_zh_cn": "希腊",
+                "name_en": "Greece",
+                "poi_count": 186,
+                "lat": 39.0742,
+                "lng": 21.8243,
+                "image_url": "http://m.chanyouji.cn/destinations/83-portrait.jpg",
+                "updated_at": 1462593484
+            },
+            {
+                "id": 99,
+                "name_zh_cn": "比利时",
+                "name_en": "Belgium",
+                "poi_count": 72,
+                "lat": 50.5039,
+                "lng": 4.46994,
+                "image_url": "http://m.chanyouji.cn/destinations/99-portrait.jpg",
+                "updated_at": 1449520871
+            },
+            {
+                "id": 97,
+                "name_zh_cn": "匈牙利",
+                "name_en": "Hungary",
+                "poi_count": 65,
+                "lat": 47.1625,
+                "lng": 19.5033,
+                "image_url": "http://cyjm.qiniudn.com/destinations/191-portrait.jpg",
+                "updated_at": 1441571966
+            },
+            {
+                "id": 66,
+                "name_zh_cn": "卢森堡",
+                "name_en": "Luxembourg",
+                "poi_count": 10,
+                "lat": 49.8153,
+                "lng": 6.12958,
+                "image_url": "http://m.chanyouji.cn/destinations/66-portrait.jpg",
+                "updated_at": 1450125537
+            },
+            {
+                "id": 74,
+                "name_zh_cn": "爱尔兰",
+                "name_en": "Ireland",
+                "poi_count": 80,
+                "lat": 53.4129,
+                "lng": -8.24389,
+                "image_url": "http://m.chanyouji.cn/destinations/74-portrait.jpg",
+                "updated_at": 1460345771
+            }
+        ]
+    },
+    {
+        "category": "3",
+        "destinations": [
+            {
+                "id": 57,
+                "name_zh_cn": "美国",
+                "name_en": "United States",
+                "poi_count": 226,
+                "lat": 37.0902,
+                "lng": -95.7129,
+                "image_url": "http://m.chanyouji.cn/destinations/america/57-portrait.jpg",
+                "updated_at": 1476223600
+            },
+            {
+                "id": 68,
+                "name_zh_cn": "新西兰",
+                "name_en": "New Zealand",
+                "poi_count": 399,
+                "lat": -40.9006,
+                "lng": 174.886,
+                "image_url": "http://m.chanyouji.cn/destinations/68-portrait.jpg",
+                "updated_at": 1465942165
+            },
+            {
+                "id": 206,
+                "name_zh_cn": "美国离岛",
+                "name_en": "U.S. Islands",
+                "poi_count": 285,
+                "lat": 19.8787,
+                "lng": -159.513,
+                "image_url": "http://cyjm.qiniudn.com/destinations/206-portrait-hb.jpg",
+                "updated_at": 1465249812
+            }
+        ]
+    },
+    {
+        "category": "99",
+        "destinations": [
+            {
+                "id": 12,
+                "name_zh_cn": "台湾",
+                "name_en": "Taiwan",
+                "poi_count": 522,
+                "lat": 23.6978,
+                "lng": 120.961,
+                "image_url": "http://m.chanyouji.cn/destinations/12-portrait.jpg",
+                "updated_at": 1482962912
+            },
+            {
+                "id": 13,
+                "name_zh_cn": "香港",
+                "name_en": "Hong Kong",
+                "poi_count": 330,
+                "lat": 22.3964,
+                "lng": 114.109,
+                "image_url": "http://m.chanyouji.cn/destinations/13-portrait.jpg",
+                "updated_at": 1467238521
+            },
+            {
+                "id": 14,
+                "name_zh_cn": "澳门",
+                "name_en": "Macau",
+                "poi_count": 163,
+                "lat": 22.1987,
+                "lng": 113.544,
+                "image_url": "http://m.chanyouji.cn/destinations/14-portrait.jpg",
+                "updated_at": 1458507430
+            }
+        ]
+    },
+    {
+        "category": "999",
+        "destinations": [
+            {
+                "id": 25,
+                "name_zh_cn": "上海",
+                "name_en": "Shanghai",
+                "poi_count": 199,
+                "lat": 31.2304,
+                "lng": 121.474,
+                "image_url": "http://m.chanyouji.cn/tips/25-portrait.jpg",
+                "updated_at": 1474583618
+            },
+            {
+                "id": 16,
+                "name_zh_cn": "云南",
+                "name_en": "Yunnan",
+                "poi_count": 416,
+                "lat": 25.0454,
+                "lng": 102.71,
+                "image_url": "http://m.chanyouji.cn/destinations/16-portrait.jpg",
+                "updated_at": 1472163443
+            },
+            {
+                "id": 20,
+                "name_zh_cn": "四川",
+                "name_en": "Sichuan",
+                "poi_count": 721,
+                "lat": 30.6517,
+                "lng": 104.076,
+                "image_url": "http://m.chanyouji.cn/destinations/20-portrait.jpg",
+                "updated_at": 1476137329
+            },
+            {
+                "id": 23,
+                "name_zh_cn": "北京",
+                "name_en": "Beijing",
+                "poi_count": 248,
+                "lat": 39.9042,
+                "lng": 116.407,
+                "image_url": "http://m.chanyouji.cn/destinations/23-portrait.jpg",
+                "updated_at": 1459633610
+            },
+            {
+                "id": 152,
+                "name_zh_cn": "杭州",
+                "name_en": "Hangzhou",
+                "poi_count": 120,
+                "lat": 30.2741,
+                "lng": 120.155,
+                "image_url": "http://m.chanyouji.cn/tips/152-portrait.jpg",
+                "updated_at": 1459543866
+            },
+            {
+                "id": 161,
+                "name_zh_cn": "厦门",
+                "name_en": "Xiamen",
+                "poi_count": 111,
+                "lat": 24.4798,
+                "lng": 118.089,
+                "image_url": "http://m.chanyouji.cn/destinations/161-portrait.jpg",
+                "updated_at": 1467151432
+            },
+            {
+                "id": 26,
+                "name_zh_cn": "西藏",
+                "name_en": "Tibet",
+                "poi_count": 162,
+                "lat": 29.648,
+                "lng": 91.117,
+                "image_url": "http://m.chanyouji.cn/destinations/26-portrait.png",
+                "updated_at": 1456867351
+            },
+            {
+                "id": 137,
+                "name_zh_cn": "西安",
+                "name_en": "Xi'an",
+                "poi_count": 39,
+                "lat": 34.3416,
+                "lng": 108.94,
+                "image_url": "http://m.chanyouji.cn/destinations/137-portrait.jpg",
+                "updated_at": 1459543866
+            },
+            {
+                "id": 352,
+                "name_zh_cn": "青海湖及周边",
+                "name_en": "Qinghai Lake",
+                "poi_count": 30,
+                "lat": 36.7599,
+                "lng": 100.35,
+                "image_url": "http://m.chanyouji.cn/destinations/352-portrait.png",
+                "updated_at": 1482444638
+            },
+            {
+                "id": 160,
+                "name_zh_cn": "广州",
+                "name_en": "Guangzhou",
+                "poi_count": 138,
+                "lat": 23.1292,
+                "lng": 113.264,
+                "image_url": "http://m.chanyouji.cn/destinations/160-portrait.jpg",
+                "updated_at": 1444595617
+            },
+            {
+                "id": 354,
+                "name_zh_cn": "甘南与兰州",
+                "name_en": "Gannan",
+                "poi_count": 26,
+                "lat": 34.9834,
+                "lng": 102.911,
+                "image_url": "http://m.chanyouji.cn/destinations/354-portrait.jpg",
+                "updated_at": 1437083008
+            },
+            {
+                "id": 153,
+                "name_zh_cn": "南京",
+                "name_en": "Nanjing",
+                "poi_count": 118,
+                "lat": 32.0603,
+                "lng": 118.797,
+                "image_url": "http://m.chanyouji.cn/destinations/153-portrait.jpg",
+                "updated_at": 1482444635
+            },
+            {
+                "id": 154,
+                "name_zh_cn": "苏州",
+                "name_en": "suzhou",
+                "poi_count": 77,
+                "lat": 31.2989,
+                "lng": 120.585,
+                "image_url": "http://m.chanyouji.cn/destinations/154-portrait.jpg",
+                "updated_at": 1462484978
+            },
+            {
+                "id": 18,
+                "name_zh_cn": "内蒙古",
+                "name_en": "Inner mongolia ",
+                "poi_count": 83,
+                "lat": 40.8175,
+                "lng": 111.766,
+                "image_url": "http://m.chanyouji.cn/destinations/18-portrait.jpg",
+                "updated_at": 1464126607
+            },
+            {
+                "id": 329,
+                "name_zh_cn": "敦煌与嘉峪关",
+                "name_en": "Dunhuang",
+                "poi_count": 27,
+                "lat": 40.1421,
+                "lng": 94.6619,
+                "image_url": "http://m.chanyouji.cn/destinations/329-portrait.jpg",
+                "updated_at": 1473545816
+            },
+            {
+                "id": 10,
+                "name_zh_cn": "新疆",
+                "name_en": "Xinjiang",
+                "poi_count": 78,
+                "lat": 43.793,
+                "lng": 87.6278,
+                "image_url": "http://m.chanyouji.cn/destinations/10-portrait.jpg",
+                "updated_at": 1450816777
+            },
+            {
+                "id": 209,
+                "name_zh_cn": "三亚",
+                "name_en": "Sanya",
+                "poi_count": 22,
+                "lat": 18.2528,
+                "lng": 109.512,
+                "image_url": "http://m.chanyouji.cn/destinations/209-portrait.jpg",
+                "updated_at": 1463089658
+            },
+            {
+                "id": 156,
+                "name_zh_cn": "哈尔滨",
+                "name_en": "Harbin",
+                "poi_count": 36,
+                "lat": 45.8038,
+                "lng": 126.535,
+                "image_url": "http://m.chanyouji.cn/destinations/156-portrait.jpg",
+                "updated_at": 1466546108
+            },
+            {
+                "id": 159,
+                "name_zh_cn": "青岛",
+                "name_en": "Qingdao",
+                "poi_count": 29,
+                "lat": 36.0671,
+                "lng": 120.383,
+                "image_url": "http://m.chanyouji.cn/destinations/159-portrait.jpg",
+                "updated_at": 1476223603
+            },
+            {
+                "id": 320,
+                "name_zh_cn": "洛阳",
+                "name_en": "Luoyang",
+                "poi_count": 26,
+                "lat": 34.6197,
+                "lng": 112.454,
+                "image_url": "http://m.chanyouji.cn/destinations/320-portrait.jpg",
+                "updated_at": 1455051004
+            },
+            {
+                "id": 362,
+                "name_zh_cn": "桂林",
+                "name_en": "Guilin",
+                "poi_count": 44,
+                "lat": 25.2736,
+                "lng": 110.29,
+                "image_url": "http://m.chanyouji.cn/destinations/362-portrait.jpg",
+                "updated_at": 1474583627
+            },
+            {
+                "id": 366,
+                "name_zh_cn": "凤凰与张家界",
+                "name_en": "Xiangxi",
+                "poi_count": 39,
+                "lat": 29.1171,
+                "lng": 110.479,
+                "image_url": "http://m.chanyouji.cn/destinations/366-portrait.jpg",
+                "updated_at": 1458248547
+            },
+            {
+                "id": 356,
+                "name_zh_cn": "婺源",
+                "name_en": "Wuyuan",
+                "poi_count": 40,
+                "lat": 29.248,
+                "lng": 117.862,
+                "image_url": "http://m.chanyouji.cn/destinations/356-portrait.jpg",
+                "updated_at": 1460497759
+            }
+        ]
+    }
+]

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app xmlns="http://xmlns.jcp.org/xml/ns/javaee"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://xmlns.jcp.org/xml/ns/javaee http://xmlns.jcp.org/xml/ns/javaee/web-app_3_1.xsd"
+         version="3.1">
+    <servlet>
+        <!--servlet-name用来给servlet类取一个别名-->
+        <servlet-name>ServletTest</servlet-name>
+        <!--servlet-class 用来声明servlet类-->
+        <servlet-class>com.runboo.servlet.ServletTest</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>ServletTest</servlet-name>
+        <!--地址栏的访问路径-->
+        <url-pattern>/index.html</url-pattern>
+    </servlet-mapping>
+</web-app>

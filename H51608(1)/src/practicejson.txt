@@ -1,0 +1,65 @@
+[
+    {
+        "classRoom": "实训二",
+        "className": "H51608",
+        "students": [
+            {
+                "name": "李有文",
+                "age": 20,
+                "sex": "男"
+            },
+            {
+                "name": "张玲",
+                "age": 21,
+                "sex": "女"
+            },
+            {
+                "name": "万通",
+                "age": 22,
+                "sex": "男"
+            }
+        ]
+    },
+    {
+        "classRoom": "实训三",
+        "className": "H51609",
+        "students": [
+            {
+                "name": "罗浩",
+                "age": 23,
+                "sex": "男"
+            },
+            {
+                "name": "陈艳芳",
+                "age": 24,
+                "sex": "女"
+            },
+            {
+                "name": "黄晓明",
+                "age": 26,
+                "sex": "女"
+            }
+        ]
+    },
+    {
+        "classRoom": "实训四",
+        "className": "Android1605",
+        "students": [
+            {
+                "name": "吴家兴",
+                "age": 24,
+                "sex": "男"
+            },
+            {
+                "name": "朱国华",
+                "age": 26,
+                "sex": "男"
+            },
+            {
+                "name": "姜丽娜",
+                "age": 27,
+                "sex": "女"
+            }
+        ]
+    }
+]
